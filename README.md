@@ -5,7 +5,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ```bash
-git clone https://github.com/твой-логин/react-online-store.git
-cd react-online-store
+git clone https://github.com/VeVine/react-photographer.git
+cd react-photographer
 npm install
 npm run dev
